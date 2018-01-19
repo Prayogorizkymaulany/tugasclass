@@ -40,3 +40,15 @@ class buku {
 	pelajaran.hargabuku( 150000 );
 	cout <<"===================================\n";
 	
+	};
+void buku::jenisbuku(string buku){
+	cout <<"\n"<<"judulbuku "<<buku<<endl;
+}
+void buku::penerbitbuku(string penerbit){
+	cout <<"\n" <<"penerbit:"<<penerbit<<endl;
+}
+	
+void buku::hargabuku(int harga){
+	cout <<"\n"<<"harga "<<harga<<endl;
+
+}
