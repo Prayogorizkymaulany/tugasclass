@@ -11,3 +11,9 @@ class buku {
     
                 
         };
+    int main(){
+    buku novel,komik,pelajaran; 
+
+	novel.judulbuku	="Garis Waktu";
+	komik.judulbuku ="One Piace ";
+	pelajaran.judulbuku ="Kewarganegaraan ";
